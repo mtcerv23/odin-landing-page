@@ -1,0 +1,2 @@
+This project has tasked me with recreating a given landing page as closely as possible. Accuracy does not have to be spot-on, just close enough.
+I've been given the option to use alternative images, but I will choose to keep the given images.
